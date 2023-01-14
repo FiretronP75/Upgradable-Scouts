@@ -1,0 +1,184 @@
+[
+  {
+    "name": "Scout",
+    "unitType": "Scout",
+    "movement": 3, // +1 movement
+    "strength": 5,
+    "cost": 25,
+    "obsoleteTech": "Iron Working", // New
+    "upgradesTo": "Iron Scout", // New
+    "uniques": [
+      "Never appears as a Barbarian unit",
+      // Removed "May upgrade to [Archer] through ruins-like effects",
+      "Normal vision when embarked", // New
+      "Defense bonus when embarked", // New
+      "Double movement in [Coast]" // New
+    ],
+    "promotions": [
+      "Amphibious", // New
+      "Ignore terrain cost",
+      "March", // New
+      "Scouting I" // New
+    ],
+    "attackSound": "nonmetalhit"
+  },
+  {
+    "name": "Iron Scout",
+    "unitType": "Scout",
+    "movement": 3,
+    "strength": 9,
+    "cost": 50,
+    "requiredTech": "Iron Working",
+    "obsoleteTech": "Steel",
+    "upgradesTo": "Steel Scout",
+    "uniques": [
+      "Never appears as a Barbarian unit",
+      "Normal vision when embarked",
+      "Defense bonus when embarked",
+      "Double movement in [Coast]"
+    ],
+    "promotions": [
+      "Amphibious",
+      "Ignore terrain cost",
+      "March",
+      "Scouting I"
+    ],
+    "attackSound": "metalhit"
+  },
+  {
+    "name": "Steel Scout",
+    "unitType": "Scout",
+    "movement": 3,
+    "strength": 13,
+    "cost": 75,
+    "requiredTech": "Steel",
+    "obsoleteTech": "Gunpowder",
+    "upgradesTo": "Gunpowder Scout",
+    "uniques": [
+      "Never appears as a Barbarian unit",
+      "Normal vision when embarked",
+      "Defense bonus when embarked",
+      "Double movement in [Coast]"
+    ],
+    "promotions": [
+      "Amphibious",
+      "Ignore terrain cost",
+      "March",
+      "Scouting I"
+    ],
+    "attackSound": "metalhit"
+  },
+  {
+    "name": "Gunpowder Scout",
+    "unitType": "Scout",
+    "movement": 3,
+    "strength": 15,
+    "cost": 95,
+    "requiredTech": "Gunpowder",
+    "obsoleteTech": "Rifling",
+    "upgradesTo": "Rifle Scout",
+    "uniques": [
+      "Never appears as a Barbarian unit",
+      "Normal vision when embarked",
+      "Defense bonus when embarked",
+      "Double movement in [Coast]"
+    ],
+    "promotions": [
+      "Amphibious",
+      "Ignore terrain cost",
+      "March",
+      "Scouting I"
+    ],
+    "attackSound": "shot"
+  },
+  {
+    "name": "Rifle Scout",
+    "unitType": "Scout",
+    "movement": 3,
+    "strength": 21,
+    "cost": 140,
+    "requiredTech": "Rifling",
+    "obsoleteTech": "Replaceable Parts",
+    "upgradesTo": "Great War Scout",
+    "uniques": [
+      "Never appears as a Barbarian unit",
+      "Normal vision when embarked",
+      "Defense bonus when embarked",
+      "Double movement in [Coast]"
+    ],
+    "promotions": [
+      "Amphibious",
+      "Ignore terrain cost",
+      "March",
+      "Scouting I"
+    ],
+    "attackSound": "shot"
+  },
+  {
+    "name": "Great War Scout",
+    "unitType": "Scout",
+    "movement": 3,
+    "strength": 31,
+    "cost": 200,
+    "requiredTech": "Replaceable Parts",
+    "obsoleteTech": "Plastics",
+    "upgradesTo": "Modern Scout",
+    "uniques": [
+      "Never appears as a Barbarian unit",
+      "Normal vision when embarked",
+      "Defense bonus when embarked",
+      "Double movement in [Coast]"
+    ],
+    "promotions": [
+      "Amphibious",
+      "Ignore terrain cost",
+      "March",
+      "Scouting I"
+    ],
+    "attackSound": "shot"
+  },
+  {
+    "name": "Modern Scout",
+    "unitType": "Scout",
+    "movement": 3,
+    "strength": 44,
+    "cost": 235,
+    "requiredTech": "Plastics",
+    "obsoleteTech": "Mobile Tactics",
+    "upgradesTo": "Mechanized Scout",
+    "uniques": [
+      "Never appears as a Barbarian unit",
+      "Normal vision when embarked",
+      "Defense bonus when embarked",
+      "Double movement in [Coast]"
+    ],
+    "promotions": [
+      "Amphibious",
+      "Ignore terrain cost",
+      "March",
+      "Scouting I"
+    ],
+    "attackSound": "shot"
+  },
+  {
+    "name": "Mechanized Scout",
+    "unitType": "Scout",
+    "movement": 4,
+    "strength": 56,
+    "cost": 235,
+    "requiredTech": "Mobile Tactics",
+    "uniques": [
+      "Never appears as a Barbarian unit",
+      "Normal vision when embarked",
+      "Defense bonus when embarked",
+      "Double movement in [Coast]"
+    ],
+    "promotions": [
+      "Amphibious",
+      "Ignore terrain cost",
+      "March",
+      "Scouting I"
+    ],
+    "attackSound": "tankshot"
+  }
+]
