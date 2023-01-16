@@ -6,7 +6,7 @@
     "strength": 5,
     "cost": 25,
     "obsoleteTech": "Iron Working", // New
-    "upgradesTo": "Iron Scout", // New
+    "upgradesTo": "Elite Scout", // New
     "uniques": [
       "Never appears as a Barbarian unit",
       // Removed "May upgrade to [Archer] through ruins-like effects",
@@ -30,7 +30,7 @@
     "cost": 50,
     "requiredTech": "Iron Working",
     "obsoleteTech": "Steel",
-    "upgradesTo": "Steel Scout",
+    "upgradesTo": "Explorer",
     "uniques": [
       "Never appears as a Barbarian unit",
       "Normal vision when embarked",
@@ -53,7 +53,7 @@
     "cost": 75,
     "requiredTech": "Steel",
     "obsoleteTech": "Gunpowder",
-    "upgradesTo": "Gunpowder Scout",
+    "upgradesTo": "Elite Explorer",
     "uniques": [
       "Never appears as a Barbarian unit",
       "Normal vision when embarked",
@@ -76,7 +76,7 @@
     "cost": 95,
     "requiredTech": "Gunpowder",
     "obsoleteTech": "Rifling",
-    "upgradesTo": "Rifle Scout",
+    "upgradesTo": "Commando",
     "uniques": [
       "Never appears as a Barbarian unit",
       "Normal vision when embarked",
@@ -99,7 +99,7 @@
     "cost": 140,
     "requiredTech": "Rifling",
     "obsoleteTech": "Replaceable Parts",
-    "upgradesTo": "Great War Scout",
+    "upgradesTo": "Elite Commando",
     "uniques": [
       "Never appears as a Barbarian unit",
       "Normal vision when embarked",
@@ -122,7 +122,7 @@
     "cost": 200,
     "requiredTech": "Replaceable Parts",
     "obsoleteTech": "Plastics",
-    "upgradesTo": "Modern Scout",
+    "upgradesTo": "Recon",
     "uniques": [
       "Never appears as a Barbarian unit",
       "Normal vision when embarked",
@@ -145,7 +145,7 @@
     "cost": 235,
     "requiredTech": "Plastics",
     "obsoleteTech": "Mobile Tactics",
-    "upgradesTo": "Mechanized Scout",
+    "upgradesTo": "Elite Recon",
     "uniques": [
       "Never appears as a Barbarian unit",
       "Normal vision when embarked",
