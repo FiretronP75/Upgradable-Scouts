@@ -23,7 +23,7 @@
     "attackSound": "nonmetalhit"
   },
   {
-    "name": "Iron Scout",
+    "name": "Elite Scout",
     "unitType": "Scout",
     "movement": 3,
     "strength": 9,
@@ -46,7 +46,7 @@
     "attackSound": "metalhit"
   },
   {
-    "name": "Steel Scout",
+    "name": "Explorer",
     "unitType": "Scout",
     "movement": 3,
     "strength": 13,
@@ -69,7 +69,7 @@
     "attackSound": "metalhit"
   },
   {
-    "name": "Gunpowder Scout",
+    "name": "Elite Explorer",
     "unitType": "Scout",
     "movement": 3,
     "strength": 15,
@@ -92,7 +92,7 @@
     "attackSound": "shot"
   },
   {
-    "name": "Rifle Scout",
+    "name": "Commando",
     "unitType": "Scout",
     "movement": 3,
     "strength": 21,
@@ -115,7 +115,7 @@
     "attackSound": "shot"
   },
   {
-    "name": "Great War Scout",
+    "name": "Elite Commando",
     "unitType": "Scout",
     "movement": 3,
     "strength": 31,
@@ -138,7 +138,7 @@
     "attackSound": "shot"
   },
   {
-    "name": "Modern Scout",
+    "name": "Recon",
     "unitType": "Scout",
     "movement": 3,
     "strength": 44,
@@ -161,7 +161,7 @@
     "attackSound": "shot"
   },
   {
-    "name": "Mechanized Scout",
+    "name": "Elite Recon",
     "unitType": "Scout",
     "movement": 4,
     "strength": 56,
