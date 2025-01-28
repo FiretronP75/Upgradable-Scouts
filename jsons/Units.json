@@ -10,7 +10,8 @@
     "uniques": [
       "Never appears as a Barbarian unit",
       // Removed "May upgrade to [Archer] through ruins-like effects",
-      "Normal vision when embarked", // New
+      "+1 Sight <for Embarked units>", // New
+      "+1 Sight <when Embarked>", // New
       "Defense bonus when embarked", // New
       "Double movement in [Coast]" // New
     ],
@@ -33,7 +34,8 @@
     "upgradesTo": "Explorer",
     "uniques": [
       "Never appears as a Barbarian unit",
-      "Normal vision when embarked",
+      "+1 Sight <for Embarked units>",
+      "+1 Sight <when Embarked>",
       "Defense bonus when embarked",
       "Double movement in [Coast]"
     ],
@@ -56,7 +58,8 @@
     "upgradesTo": "Elite Explorer",
     "uniques": [
       "Never appears as a Barbarian unit",
-      "Normal vision when embarked",
+      "+1 Sight <for Embarked units>",
+      "+1 Sight <when Embarked>",
       "Defense bonus when embarked",
       "Double movement in [Coast]"
     ],
@@ -79,7 +82,8 @@
     "upgradesTo": "Commando",
     "uniques": [
       "Never appears as a Barbarian unit",
-      "Normal vision when embarked",
+      "+1 Sight <for Embarked units>",
+      "+1 Sight <when Embarked>",
       "Defense bonus when embarked",
       "Double movement in [Coast]"
     ],
@@ -102,7 +106,8 @@
     "upgradesTo": "Elite Commando",
     "uniques": [
       "Never appears as a Barbarian unit",
-      "Normal vision when embarked",
+      "+1 Sight <for Embarked units>",
+      "+1 Sight <when Embarked>",
       "Defense bonus when embarked",
       "Double movement in [Coast]"
     ],
@@ -125,7 +130,8 @@
     "upgradesTo": "Recon",
     "uniques": [
       "Never appears as a Barbarian unit",
-      "Normal vision when embarked",
+      "+1 Sight <for Embarked units>",
+      "+1 Sight <when Embarked>",
       "Defense bonus when embarked",
       "Double movement in [Coast]"
     ],
@@ -148,7 +154,8 @@
     "upgradesTo": "Elite Recon",
     "uniques": [
       "Never appears as a Barbarian unit",
-      "Normal vision when embarked",
+      "+1 Sight <for Embarked units>",
+      "+1 Sight <when Embarked>",
       "Defense bonus when embarked",
       "Double movement in [Coast]"
     ],
@@ -169,7 +176,8 @@
     "requiredTech": "Mobile Tactics",
     "uniques": [
       "Never appears as a Barbarian unit",
-      "Normal vision when embarked",
+      "+1 Sight <for Embarked units>",
+      "+1 Sight <when Embarked>",
       "Defense bonus when embarked",
       "Double movement in [Coast]"
     ],
