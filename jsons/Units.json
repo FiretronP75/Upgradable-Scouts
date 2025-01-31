@@ -12,7 +12,7 @@
       // Removed "May upgrade to [Archer] through ruins-like effects",
       "+1 Sight <for Embarked units>", // New
       "+1 Sight <when Embarked>", // New
-      "Defense bonus when embarked", // New
+      "+100% Strength <when defending><when Embarked>", // New
       "Double movement in [Coast]" // New
     ],
     "promotions": [
@@ -36,7 +36,7 @@
       "Never appears as a Barbarian unit",
       "+1 Sight <for Embarked units>",
       "+1 Sight <when Embarked>",
-      "Defense bonus when embarked",
+      "+100% Strength <when defending><when Embarked>",
       "Double movement in [Coast]"
     ],
     "promotions": [
@@ -60,7 +60,7 @@
       "Never appears as a Barbarian unit",
       "+1 Sight <for Embarked units>",
       "+1 Sight <when Embarked>",
-      "Defense bonus when embarked",
+      "+100% Strength <when defending><when Embarked>",
       "Double movement in [Coast]"
     ],
     "promotions": [
@@ -84,7 +84,7 @@
       "Never appears as a Barbarian unit",
       "+1 Sight <for Embarked units>",
       "+1 Sight <when Embarked>",
-      "Defense bonus when embarked",
+      "+100% Strength <when defending><when Embarked>",
       "Double movement in [Coast]"
     ],
     "promotions": [
@@ -108,7 +108,7 @@
       "Never appears as a Barbarian unit",
       "+1 Sight <for Embarked units>",
       "+1 Sight <when Embarked>",
-      "Defense bonus when embarked",
+      "+100% Strength <when defending><when Embarked>",
       "Double movement in [Coast]"
     ],
     "promotions": [
@@ -132,7 +132,7 @@
       "Never appears as a Barbarian unit",
       "+1 Sight <for Embarked units>",
       "+1 Sight <when Embarked>",
-      "Defense bonus when embarked",
+      "+100% Strength <when defending><when Embarked>",
       "Double movement in [Coast]"
     ],
     "promotions": [
@@ -156,7 +156,7 @@
       "Never appears as a Barbarian unit",
       "+1 Sight <for Embarked units>",
       "+1 Sight <when Embarked>",
-      "Defense bonus when embarked",
+      "+100% Strength <when defending><when Embarked>",
       "Double movement in [Coast]"
     ],
     "promotions": [
@@ -178,7 +178,7 @@
       "Never appears as a Barbarian unit",
       "+1 Sight <for Embarked units>",
       "+1 Sight <when Embarked>",
-      "Defense bonus when embarked",
+      "+100% Strength <when defending><when Embarked>",
       "Double movement in [Coast]"
     ],
     "promotions": [
